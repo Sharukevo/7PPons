@@ -10,7 +10,7 @@ Revised: April 12, 2021         Earth Barycenter                              3
 
 
 *******************************************************************************
-Ephemeris / WWW_USER Sun Mar 12 18:33:10 2023 Pasadena, USA      / Horizons
+Ephemeris / WWW_USER Sun Mar 12 18:51:01 2023 Pasadena, USA      / Horizons
 *******************************************************************************
 Target body name: Earth-Moon Barycenter (3)       {source: DE441}
 Center body name: Solar System Barycenter (0)     {source: DE441}
@@ -29,26 +29,6 @@ Output type     : GEOMETRIC cartesian states
 Output format   : 1 (position only)
 Reference frame : Ecliptic of J2000.0
 *******************************************************************************
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             JDTDB,            Calendar Date (TDB),                      X,                      Y,                      Z,
 **************************************************************************************************************************
 $$SOE
